@@ -1,5 +1,5 @@
 # Copilot Instructins
-my instructions files.
+カスタム指示ファイル（*.instructions.md）を集めたリポジトリ。サブモジュールとしてプロジェクトリポジトリへ埋め込むことを想定して構成しています。
 
 ## Initialize
 
